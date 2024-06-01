@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Personal%20Projects/MLFLOW%20TEST/mlruns/0/740a9846b08146a0abcba88199341abd/artifacts
+end_time: 1717275043750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 740a9846b08146a0abcba88199341abd
+run_name: popular-moth-788
+run_uuid: 740a9846b08146a0abcba88199341abd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717275036794
+status: 3
+tags: []
+user_id: walea

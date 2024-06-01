@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Personal%20Projects/MLFLOW%20TEST/mlruns/0/65672c1c4b504fbb868e657a13f9ae6c/artifacts
+end_time: 1717273162698
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65672c1c4b504fbb868e657a13f9ae6c
+run_name: receptive-mole-12
+run_uuid: 65672c1c4b504fbb868e657a13f9ae6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717273155913
+status: 3
+tags: []
+user_id: walea
